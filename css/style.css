@@ -21,6 +21,9 @@
   li {
     list-style-type: none;
     display: inline;
+    text-align: center;
+    padding: 5px;
+    margin:10%;
   }
 
   #item-1 {
