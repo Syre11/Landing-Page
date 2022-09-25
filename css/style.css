@@ -1,3 +1,48 @@
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
+
+  h1 {
+    text-align: center;
+  }
+
+  body {
+    padding-top: 150px
+  }
+
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(128, 187, 187);
+  }
+
+  li {
+    list-style-type: none;
+    display: inline;
+  }
+
+  #item-1 {
+    background-color: aqua;
+  }
+
+  #item-2 {
+    background-color: orange;
+  }
+
+  #item-3 {
+    background-color: yellow;
+  }
+
+  #image {
+    height: 100px;
+    width: 100px;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    height: 25px;
+  }
